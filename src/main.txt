@@ -16,3 +16,4 @@ Rich documentation builder for Elm applications and packages. Inspired by Storyb
 # guard against empty input
 # drop an unused branch
 # keep defaults in sync with the manifest
+# drop an unused branch
