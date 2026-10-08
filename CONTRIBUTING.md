@@ -37,3 +37,4 @@ Notes and usage details for elm-book.
 - link the usage section
 - clarify the setup steps
 - add a note about the defaults
+- clarify the setup steps
